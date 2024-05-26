@@ -11,12 +11,10 @@ const ContactContainer = styled.div`
   background-color: #f4f4f3;
 
   & h2 {
-
     color: #000;
   }
 
   & p {
-
     color: #6f6e6e;
   }
 `;
@@ -76,14 +74,14 @@ const ContactBtn = styled.button`
 
   @media only screen and (min-width: 900px) and (max-width: 1200px) {
     & span {
-      font-size: .9rem;
+      font-size: 0.9rem;
     }
     width: 90px;
   }
 
   @media only screen and (max-width: 600px) {
     & span {
-      font-size: .9rem;
+      font-size: 0.9rem;
     }
     width: 90px;
   }
@@ -104,17 +102,17 @@ const SolicitBtn = styled.button`
 
   @media only screen and (min-width: 900px) and (max-width: 1200px) {
     & span {
-      font-size: .9rem;
+      font-size: 0.9rem;
     }
     width: 160px;
   }
 
   @media only screen and (max-width: 600px) {
     & span {
-      font-size: .9rem;
+      font-size: 0.9rem;
     }
     width: 160px;
   }
 `;
 
-export { ContactContainer, TextContent, DivBtns, ContactBtn, SolicitBtn }
+export { ContactContainer, TextContent, DivBtns, ContactBtn, SolicitBtn };

@@ -11,14 +11,16 @@ const Footer = () => {
           <li>
             <a
               href="https://wa.me/5521981711123?text=Eu%20gostaria%20de%20fazer%20um%20orçamento!"
-              target="_blank">
+              target="_blank"
+            >
               WhatsApp
             </a>
           </li>
           <li>
             <a
               href="https://www.instagram.com/clocks.comunicacao/"
-              target="_blank">
+              target="_blank"
+            >
               Instagram
             </a>
           </li>

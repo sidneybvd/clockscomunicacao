@@ -30,7 +30,7 @@ const Projects = () => {
             src="src/assets/projects/TOCADATRAIRA.jpg"
             alt="Totem em led para o restaurante Toca da Traíra"
           />
-          
+
           <RowImg
             src="src/assets/projects/BMW.jpg"
             alt="Imagem de um trabalho para as agências de carro BMW e Mini"
@@ -47,7 +47,6 @@ const Projects = () => {
             src="src/assets/projects/UCA.jpg"
             alt="Totem da universidade UCA"
           />
-          
         </div>
       </div>
     </ProjectsContainer>

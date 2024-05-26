@@ -12,7 +12,6 @@ const ProjectsContainer = styled.div`
     display: grid;
     grid-template-columns: 350px 350px 350px 350px;
     gap: 5px;
-
   }
 
   @media only screen and (max-width: 1550px) {
@@ -22,7 +21,7 @@ const ProjectsContainer = styled.div`
     }
   }
 
-  @media only screen and (max-width: 1200px)  {
+  @media only screen and (max-width: 1200px) {
     & .images {
       display: grid;
       grid-template-columns: 300px 300px;

@@ -37,7 +37,7 @@ export const NavbarStyle = styled.nav`
     justify-content: center;
 
     & img {
-        display: none;
+      display: none;
     }
   }
 `;

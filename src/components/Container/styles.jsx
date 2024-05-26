@@ -26,12 +26,12 @@ export const ContainerStyle = styled.div`
 
   @media only screen and (min-width: 900px) and (max-width: 1200px) {
     & h2 {
-    font-size: ${themeH2.fontSize}rem;
-  }
+      font-size: ${themeH2.fontSize}rem;
+    }
 
-  & p {
-    font-size: ${themeP.fontSize}rem;
-  }
+    & p {
+      font-size: ${themeP.fontSize}rem;
+    }
   }
 
   @media only screen and (min-width: 600px) and (max-width: 900px) {

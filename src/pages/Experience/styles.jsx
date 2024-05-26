@@ -56,7 +56,6 @@ const Numbers = styled.div`
     flex-direction: column;
     gap: 2rem;
   }
-  
 `;
 
-export { ExperienceContainer, TextContent, Numbers }
+export { ExperienceContainer, TextContent, Numbers };

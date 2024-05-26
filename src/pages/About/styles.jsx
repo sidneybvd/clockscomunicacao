@@ -31,7 +31,6 @@ const TextContent = styled.div`
     width: 600px;
   }
 
-
   @media only screen and (max-width: 600px) {
     width: 350px;
   }
@@ -39,7 +38,7 @@ const TextContent = styled.div`
   @media only screen and (max-width: 400px) {
     width: 300px;
   }
-`
+`;
 
 const AboutContent = styled.div`
   display: flex;
@@ -56,12 +55,12 @@ const AboutContent = styled.div`
   @media only screen and (min-width: 600px) and (max-width: 900px) {
     width: 600px;
     flex-direction: column;
-    gap: .2rem;
+    gap: 0.2rem;
   }
 
   @media only screen and (max-width: 600px) {
     flex-direction: column;
-    gap: .2px;
+    gap: 0.2px;
   }
 `;
 
@@ -76,7 +75,7 @@ const Characteristcs = styled.div`
 
   & h3 {
     font-weight: 700;
-    font-size: 1rem; 
+    font-size: 1rem;
   }
 
   & img {
@@ -86,9 +85,9 @@ const Characteristcs = styled.div`
 
   @media only screen and (min-width: 600px) {
     width: 250px;
-    
+
     & h3 {
-      font-size: .9rem;
+      font-size: 0.9rem;
     }
 
     & img {
@@ -99,7 +98,7 @@ const Characteristcs = styled.div`
   @media only screen and (max-width: 600px) {
     width: 350px;
     & h3 {
-      font-size: .9rem;
+      font-size: 0.9rem;
     }
   }
 

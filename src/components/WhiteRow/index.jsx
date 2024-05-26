@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const WhiteRow = () => {
-  return (
-    <div style={ { height: '65px' } }></div>
-  )
-}
+  return <div style={{ height: "65px" }}></div>;
+};
 
-export default WhiteRow
+export default WhiteRow;
